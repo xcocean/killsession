@@ -57,6 +57,7 @@ public class UserController {
       if (sessionId.get(username) != null) {
         sessionService.delete(sessionId.get(username));
       }
+      //记录下每次登陆的sessionId，其中key为username，可根据实际情况定义
       sessionId.put(username, request.getSession().getId());
       request.getSession().setAttribute("username", "123");
       return "redirect:/index"; //使用重定向，
