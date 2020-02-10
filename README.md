@@ -9,4 +9,4 @@
 ### 简书文章
 https://www.jianshu.com/p/71e218a1833c
 
-![效果图](https://github.com/xcocean/killsession/blob/master/GIF.gif)
+![效果图](https://upload-images.jianshu.io/upload_images/16864693-7595ff3c553bce6c.gif)
