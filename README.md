@@ -8,3 +8,5 @@
 1、系统重启
 ### 简书文章
 https://www.jianshu.com/p/71e218a1833c
+
+![效果图.gif](https://github.com/xcocean/killsession/blob/master/GIF.gif)
